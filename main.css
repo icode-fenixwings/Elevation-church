@@ -1,0 +1,62 @@
+body{
+  background-color: #ffffff;
+}
+.banner-rapper{
+  background: url("images/bg.jpg") center;
+  min-height: 300px;
+}
+.banner{
+  background-color: #191232;
+  min-height: 300px;
+  opacity: 0.7;
+  text-align: center;
+  padding: 20px;
+}
+.myh2{
+  color: white;
+  font-weight: bold;
+  margin-top: 30px;
+  font-size: 40px;
+}
+.mycaption{
+  color: white;
+  font-size: 20px;
+}
+.bannertext{
+  color: white;
+  margin-top: 20px;
+  margin-bottom: 20px;  
+}
+.mybtn{
+  margin-bottom: 25px;
+}
+.btnlight{
+  margin-left: 15px;
+}
+.greenbox{
+  background-color: #a3d15c;
+  padding-top: 15px;
+}
+
+.greenbox h2{
+  margin-top: 20px;
+   font-weight: 800;
+}
+.greenbox p{
+  font-size: 17px;
+}
+
+.tec {
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+.box-wrapper{
+  background-image: white;
+  padding-right: 15px;
+}
+.mybanner{
+  margin: 10px;
+  border-radius: 30px;
+}
